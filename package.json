@@ -1,0 +1,25 @@
+{
+  "name": "radiobot",
+  "version": "1.0.0",
+  "description": "discord.js radiobot with childprosecc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "radio",
+    "childprosecc"
+  ],
+  "author": "amirali_shahsavari",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.15.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.14"
+  }
+}

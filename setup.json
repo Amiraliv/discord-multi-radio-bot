@@ -1,0 +1,12 @@
+[
+  {
+    "token": "BotToken1",
+    "channel": "Channel1",
+    "music": "chillMusic.m4a"
+  },
+  {
+    "token": "BotToken1",
+    "channel": "Channel2",
+    "music": "radioJavaMusic.m4a"
+  }
+]
